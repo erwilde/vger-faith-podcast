@@ -27,7 +27,7 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Sat, 25 Apr 2026 03:23:10 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Apr 2026 03:55:32 +0000</lastBuildDate>
     <item>
       <title>Bonus — Ancient Temple Worship &amp; the Prayer Circle</title>
       <description>A research-grounded exploration of ancient temple worship, the sacred prayer circle, and how the practice survived and was restored in the latter days. Includes ANE temple parallels, Qumran texts, and early Christian liturgical evidence.</description>
@@ -208,6 +208,20 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:season>2</itunes:season>
       <itunes:episode>4</itunes:episode>
+    </item>
+    <item>
+      <title>Guest — Toby's Exodus 19–34 Podcast</title>
+      <description>A guest podcast on Exodus 19–34 produced by Toby. Shared with Eric for personal listening.</description>
+      <itunes:summary>A guest podcast on Exodus 19–34 produced by Toby. Shared with Eric for personal listening.</itunes:summary>
+      <itunes:subtitle>Guest Episodes</itunes:subtitle>
+      <pubDate>Fri, 24 Apr 2026 21:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/erwilde/vger-faith-podcast/releases/download/v1.0/toby-exodus-19-34.m4a" length="36250339" type="audio/x-m4a"/>
+      <guid isPermaLink="false">erwilde/vger-faith-podcast-v1.0-toby-exodus-19-34.m4a</guid>
+      <itunes:duration>03:12:03</itunes:duration>
+      <itunes:author>Eric Wilde</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>1</itunes:episode>
     </item>
   </channel>
 </rss>

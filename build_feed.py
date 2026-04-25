@@ -99,6 +99,12 @@ EPISODES = [
      "All three Sacred Markings episodes concatenated into a single 3-hour deep dive, followed by a bonus segment integrating Janet Ewell's April 17, 2026 Interpreter Foundation paper, 'Gamma Marks: Recent Works Relevant to Their Study.'",
      10994.760000, 65968796,
      "2026-04-24T19:00:00Z", 2, 4, "Sacred Markings on Ancient Religious Clothing"),
+
+    ("toby-exodus-19-34.m4a",
+     "Guest — Toby's Exodus 19–34 Podcast",
+     "A guest podcast on Exodus 19–34 produced by Toby. Shared with Eric for personal listening.",
+     11523.459773, 36250339,
+     "2026-04-24T21:00:00Z", 3, 1, "Guest Episodes"),
 ]
 
 now = datetime.now(timezone.utc).strftime("%a, %d %b %Y %H:%M:%S +0000")
@@ -109,6 +115,7 @@ for fname, title, desc, dur, size, pubdate_iso, season, episode_num, season_titl
     pub_rfc = pub_dt.strftime("%a, %d %b %Y %H:%M:%S +0000")
     url = f"{DOWNLOAD_BASE}/{fname}"
     guid = f"{REPO}-{TAG}-{fname}"
+    mime = "audio/x-m4a" if fname.lower().endswith(".m4a") else "audio/mpeg"
     season_xml = ""
     if season > 0:
         season_xml = f"<itunes:season>{season}</itunes:season>\n      <itunes:episode>{episode_num}</itunes:episode>"
@@ -118,7 +125,7 @@ for fname, title, desc, dur, size, pubdate_iso, season, episode_num, season_titl
       <itunes:summary>{escape(desc)}</itunes:summary>
       <itunes:subtitle>{escape(season_title)}</itunes:subtitle>
       <pubDate>{pub_rfc}</pubDate>
-      <enclosure url="{url}" length="{size}" type="audio/mpeg"/>
+      <enclosure url="{url}" length="{size}" type="{mime}"/>
       <guid isPermaLink="false">{guid}</guid>
       <itunes:duration>{fmt_dur(dur)}</itunes:duration>
       <itunes:author>Eric Wilde</itunes:author>
