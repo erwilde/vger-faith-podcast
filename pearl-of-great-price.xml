@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pearl of Great Price</title>
+    <link>https://erwilde.github.io/vger-faith-podcast</link>
+    <atom:link href="https://erwilde.github.io/vger-faith-podcast/pearl-of-great-price.xml" rel="self" type="application/rss+xml"/>
+    <language>en-us</language>
+    <copyright>© Intellectual Reserve, Inc. — Personal Use</copyright>
+    <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+    <itunes:summary>Personal feed for Eric Wilde — official chapter-by-chapter audio of the Pearl of Great Price, streamed from the Church's CDN. Audio © Intellectual Reserve, Inc.; for personal study.</itunes:summary>
+    <description>Chapter-by-chapter audio of the Pearl of Great Price, from the official Church CDN. Personal use only.</description>
+    <itunes:owner>
+      <itunes:name>Eric Wilde</itunes:name>
+      <itunes:email>erwilde@telus.net</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://erwilde.github.io/vger-faith-podcast/scriptures-cover-v2.jpg"/>
+    <image>
+      <url>https://erwilde.github.io/vger-faith-podcast/scriptures-cover-v2.jpg</url>
+      <title>Pearl of Great Price</title>
+      <link>https://erwilde.github.io/vger-faith-podcast</link>
+    </image>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Christianity"/>
+    </itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>serial</itunes:type>
+    <lastBuildDate>Sat, 25 Apr 2026 13:41:50 +0000</lastBuildDate>
+    <item>
+      <title>Title</title>
+      <description>Pearl of Great Price — Title. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Pearl of Great Price — Title</itunes:summary>
+      <itunes:subtitle>Pearl of Great Price</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 14:20:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-pearl-of-great-price/2015-11-0001-title-male-voice-64k-eng.mp3" length="379158" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-pearl-of-great-price-2015-11-0001-title-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>00:27</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>1</itunes:episode>
+    </item>
+    <item>
+      <title>Introductory Note</title>
+      <description>Pearl of Great Price — Introductory Note. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Pearl of Great Price — Introductory Note</itunes:summary>
+      <itunes:subtitle>Pearl of Great Price</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 14:21:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-pearl-of-great-price/2015-11-0002-introductory-note-male-voice-64k-eng.mp3" length="1851602" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-pearl-of-great-price-2015-11-0002-introductory-note-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>03:31</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>2</itunes:episode>
+    </item>
+    <item>
+      <title>Moses 1</title>
+      <description>Pearl of Great Price — Moses 1. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Pearl of Great Price — Moses 1</itunes:summary>
+      <itunes:subtitle>Pearl of Great Price</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 14:22:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-pearl-of-great-price/2015-11-0010-moses-01-male-voice-64k-eng.mp3" length="5133568" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-pearl-of-great-price-2015-11-0010-moses-01-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>10:21</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>3</itunes:episode>
+    </item>
+    <item>
+      <title>Moses 2</title>
+      <description>Pearl of Great Price — Moses 2. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Pearl of Great Price — Moses 2</itunes:summary>
+      <itunes:subtitle>Pearl of Great Price</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 14:23:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-pearl-of-great-price/2015-11-0020-moses-02-male-voice-64k-eng.mp3" length="3458388" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-pearl-of-great-price-2015-11-0020-moses-02-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>06:51</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>4</itunes:episode>
+    </item>
+    <item>
+      <title>Moses 3</title>
+      <description>Pearl of Great Price — Moses 3. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Pearl of Great Price — Moses 3</itunes:summary>
+      <itunes:subtitle>Pearl of Great Price</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 14:24:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-pearl-of-great-price/2015-11-0030-moses-03-male-voice-64k-eng.mp3" length="2932595" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-pearl-of-great-price-2015-11-0030-moses-03-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>05:46</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>5</itunes:episode>
+    </item>
+    <item>
+      <title>Moses 4</title>
+      <description>Pearl of Great Price — Moses 4. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Pearl of Great Price — Moses 4</itunes:summary>
+      <itunes:subtitle>Pearl of Great Price</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 14:25:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-pearl-of-great-price/2015-11-0040-moses-04-male-voice-64k-eng.mp3" length="3458597" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-pearl-of-great-price-2015-11-0040-moses-04-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>06:51</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>6</itunes:episode>
+    </item>
+    <item>
+      <title>Moses 5</title>
+      <description>Pearl of Great Price — Moses 5. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Pearl of Great Price — Moses 5</itunes:summary>
+      <itunes:subtitle>Pearl of Great Price</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 14:26:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-pearl-of-great-price/2015-11-0050-moses-05-male-voice-64k-eng.mp3" length="6421301" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-pearl-of-great-price-2015-11-0050-moses-05-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>13:02</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>7</itunes:episode>
+    </item>
+    <item>
+      <title>Moses 6</title>
+      <description>Pearl of Great Price — Moses 6. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Pearl of Great Price — Moses 6</itunes:summary>
+      <itunes:subtitle>Pearl of Great Price</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 14:27:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-pearl-of-great-price/2015-11-0060-moses-06-male-voice-64k-eng.mp3" length="7921774" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-pearl-of-great-price-2015-11-0060-moses-06-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>16:09</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>8</itunes:episode>
+    </item>
+    <item>
+      <title>Moses 7</title>
+      <description>Pearl of Great Price — Moses 7. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Pearl of Great Price — Moses 7</itunes:summary>
+      <itunes:subtitle>Pearl of Great Price</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 14:28:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-pearl-of-great-price/2015-11-0070-moses-07-male-voice-64k-eng.mp3" length="8950163" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-pearl-of-great-price-2015-11-0070-moses-07-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>18:18</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>9</itunes:episode>
+    </item>
+    <item>
+      <title>Moses 8</title>
+      <description>Pearl of Great Price — Moses 8. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Pearl of Great Price — Moses 8</itunes:summary>
+      <itunes:subtitle>Pearl of Great Price</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 14:29:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-pearl-of-great-price/2015-11-0080-moses-08-male-voice-64k-eng.mp3" length="3027681" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-pearl-of-great-price-2015-11-0080-moses-08-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>05:58</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>10</itunes:episode>
+    </item>
+    <item>
+      <title>Abraham 1</title>
+      <description>Pearl of Great Price — Abraham 1. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Pearl of Great Price — Abraham 1</itunes:summary>
+      <itunes:subtitle>Pearl of Great Price</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 14:30:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-pearl-of-great-price/2015-11-0090-abraham-01-male-voice-64k-eng.mp3" length="4375395" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-pearl-of-great-price-2015-11-0090-abraham-01-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>08:46</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>11</itunes:episode>
+    </item>
+    <item>
+      <title>Abraham 2</title>
+      <description>Pearl of Great Price — Abraham 2. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Pearl of Great Price — Abraham 2</itunes:summary>
+      <itunes:subtitle>Pearl of Great Price</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 14:31:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-pearl-of-great-price/2015-11-0100-abraham-02-male-voice-64k-eng.mp3" length="3312733" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-pearl-of-great-price-2015-11-0100-abraham-02-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>06:33</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>12</itunes:episode>
+    </item>
+    <item>
+      <title>Abraham 3</title>
+      <description>Pearl of Great Price — Abraham 3. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Pearl of Great Price — Abraham 3</itunes:summary>
+      <itunes:subtitle>Pearl of Great Price</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 14:32:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-pearl-of-great-price/2015-11-0110-abraham-03-male-voice-64k-eng.mp3" length="3814493" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-pearl-of-great-price-2015-11-0110-abraham-03-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>07:36</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>13</itunes:episode>
+    </item>
+    <item>
+      <title>Abraham 4</title>
+      <description>Pearl of Great Price — Abraham 4. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Pearl of Great Price — Abraham 4</itunes:summary>
+      <itunes:subtitle>Pearl of Great Price</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 14:33:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-pearl-of-great-price/2015-11-0120-abraham-04-male-voice-64k-eng.mp3" length="3521504" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-pearl-of-great-price-2015-11-0120-abraham-04-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>06:59</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>14</itunes:episode>
+    </item>
+    <item>
+      <title>Abraham 5</title>
+      <description>Pearl of Great Price — Abraham 5. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Pearl of Great Price — Abraham 5</itunes:summary>
+      <itunes:subtitle>Pearl of Great Price</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 14:34:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-pearl-of-great-price/2015-11-0130-abraham-05-male-voice-64k-eng.mp3" length="1992818" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-pearl-of-great-price-2015-11-0130-abraham-05-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>03:48</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>15</itunes:episode>
+    </item>
+    <item>
+      <title>Joseph Smith—Matthew</title>
+      <description>Pearl of Great Price — Joseph Smith—Matthew. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Pearl of Great Price — Joseph Smith—Matthew</itunes:summary>
+      <itunes:subtitle>Pearl of Great Price</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 14:35:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-pearl-of-great-price/2015-11-0140-joseph-smith-matthew-male-voice-64k-eng.mp3" length="4786666" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-pearl-of-great-price-2015-11-0140-joseph-smith-matthew-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>09:37</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>16</itunes:episode>
+    </item>
+    <item>
+      <title>Joseph Smith—History</title>
+      <description>Pearl of Great Price — Joseph Smith—History. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Pearl of Great Price — Joseph Smith—History</itunes:summary>
+      <itunes:subtitle>Pearl of Great Price</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 14:36:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-pearl-of-great-price/2015-11-0150-joseph-smith-history-male-voice-64k-eng.mp3" length="23618258" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-pearl-of-great-price-2015-11-0150-joseph-smith-history-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>48:51</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>17</itunes:episode>
+    </item>
+    <item>
+      <title>The Articles of Faith</title>
+      <description>Pearl of Great Price — The Articles of Faith. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Pearl of Great Price — The Articles of Faith</itunes:summary>
+      <itunes:subtitle>Pearl of Great Price</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 14:37:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-pearl-of-great-price/2015-11-0160-the-articles-of-faith-male-voice-64k-eng.mp3" length="1531834" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-pearl-of-great-price-2015-11-0160-the-articles-of-faith-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>02:51</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>18</itunes:episode>
+    </item>
+  </channel>
+</rss>

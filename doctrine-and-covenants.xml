@@ -1,0 +1,1878 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Doctrine and Covenants</title>
+    <link>https://erwilde.github.io/vger-faith-podcast</link>
+    <atom:link href="https://erwilde.github.io/vger-faith-podcast/doctrine-and-covenants.xml" rel="self" type="application/rss+xml"/>
+    <language>en-us</language>
+    <copyright>© Intellectual Reserve, Inc. — Personal Use</copyright>
+    <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+    <itunes:summary>Personal feed for Eric Wilde — official chapter-by-chapter audio of the Doctrine and Covenants, streamed from the Church's CDN. Audio © Intellectual Reserve, Inc.; for personal study.</itunes:summary>
+    <description>Chapter-by-chapter audio of the Doctrine and Covenants, from the official Church CDN. Personal use only.</description>
+    <itunes:owner>
+      <itunes:name>Eric Wilde</itunes:name>
+      <itunes:email>erwilde@telus.net</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://erwilde.github.io/vger-faith-podcast/scriptures-cover-v2.jpg"/>
+    <image>
+      <url>https://erwilde.github.io/vger-faith-podcast/scriptures-cover-v2.jpg</url>
+      <title>Doctrine and Covenants</title>
+      <link>https://erwilde.github.io/vger-faith-podcast</link>
+    </image>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Christianity"/>
+    </itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>serial</itunes:type>
+    <lastBuildDate>Sat, 25 Apr 2026 13:41:50 +0000</lastBuildDate>
+    <item>
+      <title>Title</title>
+      <description>Doctrine and Covenants — Title. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Title</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 11:58:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-0001-title-male-voice-64k-eng.mp3" length="386570" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-0001-title-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>00:27</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>1</itunes:episode>
+    </item>
+    <item>
+      <title>Introduction — Testimony of the Twelve Apostles</title>
+      <description>Doctrine and Covenants — Introduction — Testimony of the Twelve Apostles. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Introduction — Testimony of the Twelve Apostles</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 11:59:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-0002-introduction-testimony-of-the-twelve-apostles-male-voice-64k-eng.mp3" length="6658851" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-0002-introduction-testimony-of-the-twelve-apostles-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>13:31</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>2</itunes:episode>
+    </item>
+    <item>
+      <title>Section 1</title>
+      <description>Doctrine and Covenants — Section 1. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 1</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 12:00:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-0010-section-01-male-voice-64k-eng.mp3" length="3817111" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-0010-section-01-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>07:36</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>3</itunes:episode>
+    </item>
+    <item>
+      <title>Section 2</title>
+      <description>Doctrine and Covenants — Section 2. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 2</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 12:01:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-0020-section-02-male-voice-64k-eng.mp3" length="781055" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-0020-section-02-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>01:16</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>4</itunes:episode>
+    </item>
+    <item>
+      <title>Section 3</title>
+      <description>Doctrine and Covenants — Section 3. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 3</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 12:02:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-0030-section-03-male-voice-64k-eng.mp3" length="2310577" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-0030-section-03-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>04:27</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>5</itunes:episode>
+    </item>
+    <item>
+      <title>Section 4</title>
+      <description>Doctrine and Covenants — Section 4. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 4</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 12:03:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-0040-section-04-male-voice-64k-eng.mp3" length="925042" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-0040-section-04-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>01:34</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>6</itunes:episode>
+    </item>
+    <item>
+      <title>Section 5</title>
+      <description>Doctrine and Covenants — Section 5. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 5</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 12:04:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-0050-section-05-male-voice-64k-eng.mp3" length="3741042" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-0050-section-05-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>07:26</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>7</itunes:episode>
+    </item>
+    <item>
+      <title>Section 6</title>
+      <description>Doctrine and Covenants — Section 6. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 6</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 12:05:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-0060-section-06-male-voice-64k-eng.mp3" length="4001431" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-0060-section-06-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>07:59</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>8</itunes:episode>
+    </item>
+    <item>
+      <title>Section 7</title>
+      <description>Doctrine and Covenants — Section 7. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 7</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 12:06:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-0070-section-07-male-voice-64k-eng.mp3" length="1210508" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-0070-section-07-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>02:10</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>9</itunes:episode>
+    </item>
+    <item>
+      <title>Section 8</title>
+      <description>Doctrine and Covenants — Section 8. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 8</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 12:07:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-0080-section-08-male-voice-64k-eng.mp3" length="1615302" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-0080-section-08-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>03:00</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>10</itunes:episode>
+    </item>
+    <item>
+      <title>Section 9</title>
+      <description>Doctrine and Covenants — Section 9. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 9</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 12:08:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-0090-section-09-male-voice-64k-eng.mp3" length="1512902" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-0090-section-09-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>02:48</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>11</itunes:episode>
+    </item>
+    <item>
+      <title>Section 10</title>
+      <description>Doctrine and Covenants — Section 10. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 10</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 12:09:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-0100-section-10-male-voice-64k-eng.mp3" length="6276382" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-0100-section-10-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>12:43</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>12</itunes:episode>
+    </item>
+    <item>
+      <title>Section 11</title>
+      <description>Doctrine and Covenants — Section 11. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 11</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 12:10:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-0110-section-11-male-voice-64k-eng.mp3" length="3027168" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-0110-section-11-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>05:57</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>13</itunes:episode>
+    </item>
+    <item>
+      <title>Section 12</title>
+      <description>Doctrine and Covenants — Section 12. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 12</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 12:11:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-0120-section-12-male-voice-64k-eng.mp3" length="1242900" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-0120-section-12-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>02:14</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>14</itunes:episode>
+    </item>
+    <item>
+      <title>Section 13</title>
+      <description>Doctrine and Covenants — Section 13. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 13</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 12:12:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-0130-section-13-male-voice-64k-eng.mp3" length="825777" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-0130-section-13-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>01:22</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>15</itunes:episode>
+    </item>
+    <item>
+      <title>Section 14</title>
+      <description>Doctrine and Covenants — Section 14. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 14</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 12:13:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-0140-section-14-male-voice-64k-eng.mp3" length="1684056" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-0140-section-14-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>03:09</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>16</itunes:episode>
+    </item>
+    <item>
+      <title>Section 15</title>
+      <description>Doctrine and Covenants — Section 15. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 15</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 12:14:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-0150-section-15-male-voice-64k-eng.mp3" length="889098" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-0150-section-15-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>01:30</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>17</itunes:episode>
+    </item>
+    <item>
+      <title>Section 16</title>
+      <description>Doctrine and Covenants — Section 16. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 16</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 12:15:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-0160-section-16-male-voice-64k-eng.mp3" length="809267" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-0160-section-16-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>01:20</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>18</itunes:episode>
+    </item>
+    <item>
+      <title>Section 17</title>
+      <description>Doctrine and Covenants — Section 17. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 17</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 12:16:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-0170-section-17-male-voice-64k-eng.mp3" length="1576849" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-0170-section-17-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>02:56</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>19</itunes:episode>
+    </item>
+    <item>
+      <title>Section 18</title>
+      <description>Doctrine and Covenants — Section 18. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 18</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 12:17:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-0180-section-18-male-voice-64k-eng.mp3" length="3924944" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-0180-section-18-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>07:49</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>20</itunes:episode>
+    </item>
+    <item>
+      <title>Section 19</title>
+      <description>Doctrine and Covenants — Section 19. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 19</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 12:18:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-0190-section-19-male-voice-64k-eng.mp3" length="3703008" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-0190-section-19-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>07:21</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>21</itunes:episode>
+    </item>
+    <item>
+      <title>Section 20</title>
+      <description>Doctrine and Covenants — Section 20. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 20</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 12:19:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-0200-section-20-male-voice-64k-eng.mp3" length="7919380" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-0200-section-20-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>16:08</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>22</itunes:episode>
+    </item>
+    <item>
+      <title>Section 21</title>
+      <description>Doctrine and Covenants — Section 21. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 21</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 12:20:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-0210-section-21-male-voice-64k-eng.mp3" length="1987494" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-0210-section-21-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>03:47</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>23</itunes:episode>
+    </item>
+    <item>
+      <title>Section 22</title>
+      <description>Doctrine and Covenants — Section 22. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 22</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 12:21:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-0220-section-22-male-voice-64k-eng.mp3" length="741349" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-0220-section-22-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>01:11</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>24</itunes:episode>
+    </item>
+    <item>
+      <title>Section 23</title>
+      <description>Doctrine and Covenants — Section 23. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 23</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 12:22:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-0230-section-23-male-voice-64k-eng.mp3" length="1331507" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-0230-section-23-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>02:25</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>25</itunes:episode>
+    </item>
+    <item>
+      <title>Section 24</title>
+      <description>Doctrine and Covenants — Section 24. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 24</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 12:23:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-0240-section-24-male-voice-64k-eng.mp3" length="2393542" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-0240-section-24-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>04:38</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>26</itunes:episode>
+    </item>
+    <item>
+      <title>Section 25</title>
+      <description>Doctrine and Covenants — Section 25. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 25</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 12:24:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-0250-section-25-male-voice-64k-eng.mp3" length="1809235" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-0250-section-25-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>03:25</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>27</itunes:episode>
+    </item>
+    <item>
+      <title>Section 26</title>
+      <description>Doctrine and Covenants — Section 26. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 26</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 12:25:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-0260-section-26-male-voice-64k-eng.mp3" length="626828" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-0260-section-26-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>00:57</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>28</itunes:episode>
+    </item>
+    <item>
+      <title>Section 27</title>
+      <description>Doctrine and Covenants — Section 27. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 27</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 12:26:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-0270-section-27-male-voice-64k-eng.mp3" length="2427814" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-0270-section-27-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>04:42</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>29</itunes:episode>
+    </item>
+    <item>
+      <title>Section 28</title>
+      <description>Doctrine and Covenants — Section 28. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 28</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 12:27:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-0280-section-28-male-voice-64k-eng.mp3" length="1964089" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-0280-section-28-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>03:44</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>30</itunes:episode>
+    </item>
+    <item>
+      <title>Section 29</title>
+      <description>Doctrine and Covenants — Section 29. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 29</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 12:28:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-0290-section-29-male-voice-64k-eng.mp3" length="5604722" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-0290-section-29-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>11:19</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>31</itunes:episode>
+    </item>
+    <item>
+      <title>Section 30</title>
+      <description>Doctrine and Covenants — Section 30. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 30</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 12:29:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-0300-section-30-male-voice-64k-eng.mp3" length="1632229" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-0300-section-30-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>03:02</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>32</itunes:episode>
+    </item>
+    <item>
+      <title>Section 31</title>
+      <description>Doctrine and Covenants — Section 31. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 31</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 12:30:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-0310-section-31-male-voice-64k-eng.mp3" length="1512902" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-0310-section-31-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>02:48</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>33</itunes:episode>
+    </item>
+    <item>
+      <title>Section 32</title>
+      <description>Doctrine and Covenants — Section 32. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 32</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 12:31:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-0320-section-32-male-voice-64k-eng.mp3" length="1030577" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-0320-section-32-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>01:47</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>34</itunes:episode>
+    </item>
+    <item>
+      <title>Section 33</title>
+      <description>Doctrine and Covenants — Section 33. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 33</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 12:32:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-0330-section-33-male-voice-64k-eng.mp3" length="2129600" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-0330-section-33-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>04:05</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>35</itunes:episode>
+    </item>
+    <item>
+      <title>Section 34</title>
+      <description>Doctrine and Covenants — Section 34. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 34</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 12:33:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-0340-section-34-male-voice-64k-eng.mp3" length="1378528" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-0340-section-34-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>02:31</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>36</itunes:episode>
+    </item>
+    <item>
+      <title>Section 35</title>
+      <description>Doctrine and Covenants — Section 35. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 35</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 12:34:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-0350-section-35-male-voice-64k-eng.mp3" length="3355684" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-0350-section-35-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>06:38</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>37</itunes:episode>
+    </item>
+    <item>
+      <title>Section 36</title>
+      <description>Doctrine and Covenants — Section 36. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 36</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 12:35:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-0360-section-36-male-voice-64k-eng.mp3" length="1158054" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-0360-section-36-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>02:03</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>38</itunes:episode>
+    </item>
+    <item>
+      <title>Section 37</title>
+      <description>Doctrine and Covenants — Section 37. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 37</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 12:36:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-0370-section-37-male-voice-64k-eng.mp3" length="712510" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-0370-section-37-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>01:08</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>39</itunes:episode>
+    </item>
+    <item>
+      <title>Section 38</title>
+      <description>Doctrine and Covenants — Section 38. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 38</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 12:37:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-0380-section-38-male-voice-64k-eng.mp3" length="4284389" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-0380-section-38-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>08:34</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>40</itunes:episode>
+    </item>
+    <item>
+      <title>Section 39</title>
+      <description>Doctrine and Covenants — Section 39. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 39</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 12:38:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-0390-section-39-male-voice-64k-eng.mp3" length="2596670" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-0390-section-39-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>05:03</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>41</itunes:episode>
+    </item>
+    <item>
+      <title>Section 40</title>
+      <description>Doctrine and Covenants — Section 40. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 40</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 12:39:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-0400-section-40-male-voice-64k-eng.mp3" length="711047" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-0400-section-40-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>01:07</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>42</itunes:episode>
+    </item>
+    <item>
+      <title>Section 41</title>
+      <description>Doctrine and Covenants — Section 41. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 41</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 12:40:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-0410-section-41-male-voice-64k-eng.mp3" length="1678413" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-0410-section-41-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>03:08</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>43</itunes:episode>
+    </item>
+    <item>
+      <title>Section 42</title>
+      <description>Doctrine and Covenants — Section 42. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 42</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 12:41:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-0420-section-42-male-voice-64k-eng.mp3" length="8318949" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-0420-section-42-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>16:58</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>44</itunes:episode>
+    </item>
+    <item>
+      <title>Section 43</title>
+      <description>Doctrine and Covenants — Section 43. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 43</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 12:42:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-0430-section-43-male-voice-64k-eng.mp3" length="4157120" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-0430-section-43-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>08:18</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>45</itunes:episode>
+    </item>
+    <item>
+      <title>Section 44</title>
+      <description>Doctrine and Covenants — Section 44. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 44</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 12:43:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-0440-section-44-male-voice-64k-eng.mp3" length="1055863" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-0440-section-44-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>01:50</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>46</itunes:episode>
+    </item>
+    <item>
+      <title>Section 45</title>
+      <description>Doctrine and Covenants — Section 45. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 45</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 12:44:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-0450-section-45-male-voice-64k-eng.mp3" length="7768288" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-0450-section-45-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>15:49</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>47</itunes:episode>
+    </item>
+    <item>
+      <title>Section 46</title>
+      <description>Doctrine and Covenants — Section 46. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 46</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 12:45:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-0460-section-46-male-voice-64k-eng.mp3" length="3430080" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-0460-section-46-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>06:47</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>48</itunes:episode>
+    </item>
+    <item>
+      <title>Section 47</title>
+      <description>Doctrine and Covenants — Section 47. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 47</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 12:46:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-0470-section-47-male-voice-64k-eng.mp3" length="950538" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-0470-section-47-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>01:37</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>49</itunes:episode>
+    </item>
+    <item>
+      <title>Section 48</title>
+      <description>Doctrine and Covenants — Section 48. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 48</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 12:47:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-0480-section-48-male-voice-64k-eng.mp3" length="1293055" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-0480-section-48-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>02:20</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>50</itunes:episode>
+    </item>
+    <item>
+      <title>Section 49</title>
+      <description>Doctrine and Covenants — Section 49. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 49</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 12:48:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-0490-section-49-male-voice-64k-eng.mp3" length="3732683" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-0490-section-49-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>07:25</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>51</itunes:episode>
+    </item>
+    <item>
+      <title>Section 50</title>
+      <description>Doctrine and Covenants — Section 50. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 50</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 12:49:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-0500-section-50-male-voice-64k-eng.mp3" length="4403716" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-0500-section-50-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>08:49</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>52</itunes:episode>
+    </item>
+    <item>
+      <title>Section 51</title>
+      <description>Doctrine and Covenants — Section 51. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 51</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 12:50:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-0510-section-51-male-voice-64k-eng.mp3" length="2472327" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-0510-section-51-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>04:48</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>53</itunes:episode>
+    </item>
+    <item>
+      <title>Section 52</title>
+      <description>Doctrine and Covenants — Section 52. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 52</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 12:51:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-0520-section-52-male-voice-64k-eng.mp3" length="4090456" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-0520-section-52-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>08:10</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>54</itunes:episode>
+    </item>
+    <item>
+      <title>Section 53</title>
+      <description>Doctrine and Covenants — Section 53. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 53</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 12:52:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-0530-section-53-male-voice-64k-eng.mp3" length="1098704" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-0530-section-53-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>01:56</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>55</itunes:episode>
+    </item>
+    <item>
+      <title>Section 54</title>
+      <description>Doctrine and Covenants — Section 54. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 54</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 12:53:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-0540-section-54-male-voice-64k-eng.mp3" length="1549055" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-0540-section-54-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>02:52</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>56</itunes:episode>
+    </item>
+    <item>
+      <title>Section 55</title>
+      <description>Doctrine and Covenants — Section 55. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 55</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 12:54:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-0550-section-55-male-voice-64k-eng.mp3" length="1255857" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-0550-section-55-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>02:15</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>57</itunes:episode>
+    </item>
+    <item>
+      <title>Section 56</title>
+      <description>Doctrine and Covenants — Section 56. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 56</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 12:55:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-0560-section-56-male-voice-64k-eng.mp3" length="2855595" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-0560-section-56-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>05:35</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>58</itunes:episode>
+    </item>
+    <item>
+      <title>Section 57</title>
+      <description>Doctrine and Covenants — Section 57. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 57</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 12:56:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-0570-section-57-male-voice-64k-eng.mp3" length="2582877" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-0570-section-57-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>05:01</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>59</itunes:episode>
+    </item>
+    <item>
+      <title>Section 58</title>
+      <description>Doctrine and Covenants — Section 58. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 58</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 12:57:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-0580-section-58-male-voice-64k-eng.mp3" length="6368542" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-0580-section-58-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>12:55</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>60</itunes:episode>
+    </item>
+    <item>
+      <title>Section 59</title>
+      <description>Doctrine and Covenants — Section 59. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 59</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 12:58:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-0590-section-59-male-voice-64k-eng.mp3" length="2763435" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-0590-section-59-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>05:24</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>61</itunes:episode>
+    </item>
+    <item>
+      <title>Section 60</title>
+      <description>Doctrine and Covenants — Section 60. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 60</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 12:59:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-0600-section-60-male-voice-64k-eng.mp3" length="2070250" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-0600-section-60-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>03:57</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>62</itunes:episode>
+    </item>
+    <item>
+      <title>Section 61</title>
+      <description>Doctrine and Covenants — Section 61. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 61</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 13:00:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-0610-section-61-male-voice-64k-eng.mp3" length="4025254" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-0610-section-61-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>08:02</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>63</itunes:episode>
+    </item>
+    <item>
+      <title>Section 62</title>
+      <description>Doctrine and Covenants — Section 62. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 62</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 13:01:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-0620-section-62-male-voice-64k-eng.mp3" length="1341329" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-0620-section-62-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>02:26</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>64</itunes:episode>
+    </item>
+    <item>
+      <title>Section 63</title>
+      <description>Doctrine and Covenants — Section 63. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 63</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 13:02:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-0630-section-63-male-voice-64k-eng.mp3" length="6794861" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-0630-section-63-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>13:48</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>65</itunes:episode>
+    </item>
+    <item>
+      <title>Section 64</title>
+      <description>Doctrine and Covenants — Section 64. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 64</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 13:03:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-0640-section-64-male-voice-64k-eng.mp3" length="4342276" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-0640-section-64-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>08:41</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>66</itunes:episode>
+    </item>
+    <item>
+      <title>Section 65</title>
+      <description>Doctrine and Covenants — Section 65. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 65</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 13:04:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-0650-section-65-male-voice-64k-eng.mp3" length="1105600" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-0650-section-65-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>01:57</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>67</itunes:episode>
+    </item>
+    <item>
+      <title>Section 66</title>
+      <description>Doctrine and Covenants — Section 66. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 66</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 13:05:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-0660-section-66-male-voice-64k-eng.mp3" length="1902231" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-0660-section-66-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>03:36</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>68</itunes:episode>
+    </item>
+    <item>
+      <title>Section 67</title>
+      <description>Doctrine and Covenants — Section 67. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 67</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 13:06:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-0670-section-67-male-voice-64k-eng.mp3" length="2288634" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-0670-section-67-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>04:25</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>69</itunes:episode>
+    </item>
+    <item>
+      <title>Section 68</title>
+      <description>Doctrine and Covenants — Section 68. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 68</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 13:07:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-0680-section-68-male-voice-64k-eng.mp3" length="4096934" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-0680-section-68-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>08:11</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>70</itunes:episode>
+    </item>
+    <item>
+      <title>Section 69</title>
+      <description>Doctrine and Covenants — Section 69. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 69</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 13:08:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-0690-section-69-male-voice-64k-eng.mp3" length="1461702" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-0690-section-69-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>02:41</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>71</itunes:episode>
+    </item>
+    <item>
+      <title>Section 70</title>
+      <description>Doctrine and Covenants — Section 70. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 70</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 13:09:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-0700-section-70-male-voice-64k-eng.mp3" length="2389362" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-0700-section-70-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>04:37</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>72</itunes:episode>
+    </item>
+    <item>
+      <title>Section 71</title>
+      <description>Doctrine and Covenants — Section 71. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 71</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 13:10:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-0710-section-71-male-voice-64k-eng.mp3" length="1456268" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-0710-section-71-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>02:40</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>73</itunes:episode>
+    </item>
+    <item>
+      <title>Section 72</title>
+      <description>Doctrine and Covenants — Section 72. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 72</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 13:11:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-0720-section-72-male-voice-64k-eng.mp3" length="2999373" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-0720-section-72-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>05:53</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>74</itunes:episode>
+    </item>
+    <item>
+      <title>Section 73</title>
+      <description>Doctrine and Covenants — Section 73. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 73</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 13:12:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-0730-section-73-male-voice-64k-eng.mp3" length="960778" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-0730-section-73-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>01:39</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>75</itunes:episode>
+    </item>
+    <item>
+      <title>Section 74</title>
+      <description>Doctrine and Covenants — Section 74. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 74</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 13:13:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-0740-section-74-male-voice-64k-eng.mp3" length="1244781" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-0740-section-74-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>02:14</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>76</itunes:episode>
+    </item>
+    <item>
+      <title>Section 75</title>
+      <description>Doctrine and Covenants — Section 75. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 75</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 13:14:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-0750-section-75-male-voice-64k-eng.mp3" length="3574694" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-0750-section-75-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>07:05</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>77</itunes:episode>
+    </item>
+    <item>
+      <title>Section 76</title>
+      <description>Doctrine and Covenants — Section 76. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 76</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 13:15:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-0760-section-76-male-voice-64k-eng.mp3" length="10360889" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-0760-section-76-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>21:14</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>78</itunes:episode>
+    </item>
+    <item>
+      <title>Section 77</title>
+      <description>Doctrine and Covenants — Section 77. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 77</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 13:16:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-0770-section-77-male-voice-64k-eng.mp3" length="4005610" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-0770-section-77-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>07:59</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>79</itunes:episode>
+    </item>
+    <item>
+      <title>Section 78</title>
+      <description>Doctrine and Covenants — Section 78. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 78</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 13:17:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-0780-section-78-male-voice-64k-eng.mp3" length="3085264" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-0780-section-78-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>06:04</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>80</itunes:episode>
+    </item>
+    <item>
+      <title>Section 79</title>
+      <description>Doctrine and Covenants — Section 79. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 79</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 13:18:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-0790-section-79-male-voice-64k-eng.mp3" length="643755" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-0790-section-79-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>00:59</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>81</itunes:episode>
+    </item>
+    <item>
+      <title>Section 80</title>
+      <description>Doctrine and Covenants — Section 80. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 80</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 13:19:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-0800-section-80-male-voice-64k-eng.mp3" length="686596" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-0800-section-80-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>01:04</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>82</itunes:episode>
+    </item>
+    <item>
+      <title>Section 81</title>
+      <description>Doctrine and Covenants — Section 81. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 81</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 13:20:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-0810-section-81-male-voice-64k-eng.mp3" length="1584164" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-0810-section-81-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>02:56</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>83</itunes:episode>
+    </item>
+    <item>
+      <title>Section 82</title>
+      <description>Doctrine and Covenants — Section 82. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 82</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 13:21:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-0820-section-82-male-voice-64k-eng.mp3" length="3076487" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-0820-section-82-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>06:03</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>84</itunes:episode>
+    </item>
+    <item>
+      <title>Section 83</title>
+      <description>Doctrine and Covenants — Section 83. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 83</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 13:22:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-0830-section-83-male-voice-64k-eng.mp3" length="866737" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-0830-section-83-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>01:27</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>85</itunes:episode>
+    </item>
+    <item>
+      <title>Section 84</title>
+      <description>Doctrine and Covenants — Section 84. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 84</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 13:23:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-0840-section-84-male-voice-64k-eng.mp3" length="11172356" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-0840-section-84-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>22:55</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>86</itunes:episode>
+    </item>
+    <item>
+      <title>Section 85</title>
+      <description>Doctrine and Covenants — Section 85. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 85</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 13:24:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-0850-section-85-male-voice-64k-eng.mp3" length="2026573" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-0850-section-85-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>03:52</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>87</itunes:episode>
+    </item>
+    <item>
+      <title>Section 86</title>
+      <description>Doctrine and Covenants — Section 86. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 86</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 13:25:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-0860-section-86-male-voice-64k-eng.mp3" length="1474867" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-0860-section-86-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>02:43</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>88</itunes:episode>
+    </item>
+    <item>
+      <title>Section 87</title>
+      <description>Doctrine and Covenants — Section 87. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 87</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 13:26:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-0870-section-87-male-voice-64k-eng.mp3" length="1476121" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-0870-section-87-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>02:43</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>89</itunes:episode>
+    </item>
+    <item>
+      <title>Section 88</title>
+      <description>Doctrine and Covenants — Section 88. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 88</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 13:27:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-0880-section-88-male-voice-64k-eng.mp3" length="14865444" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-0880-section-88-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>30:37</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>90</itunes:episode>
+    </item>
+    <item>
+      <title>Section 89</title>
+      <description>Doctrine and Covenants — Section 89. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 89</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 13:28:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-0890-section-89-male-voice-64k-eng.mp3" length="2326041" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-0890-section-89-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>04:29</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>91</itunes:episode>
+    </item>
+    <item>
+      <title>Section 90</title>
+      <description>Doctrine and Covenants — Section 90. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 90</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 13:29:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-0900-section-90-male-voice-64k-eng.mp3" length="3821081" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-0900-section-90-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>07:36</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>92</itunes:episode>
+    </item>
+    <item>
+      <title>Section 91</title>
+      <description>Doctrine and Covenants — Section 91. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 91</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 13:30:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-0910-section-91-male-voice-64k-eng.mp3" length="844794" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-0910-section-91-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>01:24</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>93</itunes:episode>
+    </item>
+    <item>
+      <title>Section 92</title>
+      <description>Doctrine and Covenants — Section 92. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 92</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 13:31:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-0920-section-92-male-voice-64k-eng.mp3" length="718361" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-0920-section-92-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>01:08</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>94</itunes:episode>
+    </item>
+    <item>
+      <title>Section 93</title>
+      <description>Doctrine and Covenants — Section 93. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 93</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 13:32:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-0930-section-93-male-voice-64k-eng.mp3" length="5124069" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-0930-section-93-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>10:19</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>95</itunes:episode>
+    </item>
+    <item>
+      <title>Section 94</title>
+      <description>Doctrine and Covenants — Section 94. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 94</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 13:33:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-0940-section-94-male-voice-64k-eng.mp3" length="1838701" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-0940-section-94-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>03:28</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>96</itunes:episode>
+    </item>
+    <item>
+      <title>Section 95</title>
+      <description>Doctrine and Covenants — Section 95. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 95</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 13:34:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-0950-section-95-male-voice-64k-eng.mp3" length="2175576" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-0950-section-95-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>04:10</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>97</itunes:episode>
+    </item>
+    <item>
+      <title>Section 96</title>
+      <description>Doctrine and Covenants — Section 96. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 96</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 13:35:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-0960-section-96-male-voice-64k-eng.mp3" length="1541741" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-0960-section-96-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>02:51</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>98</itunes:episode>
+    </item>
+    <item>
+      <title>Section 97</title>
+      <description>Doctrine and Covenants — Section 97. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 97</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 13:36:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-0970-section-97-male-voice-64k-eng.mp3" length="3449098" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-0970-section-97-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>06:50</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>99</itunes:episode>
+    </item>
+    <item>
+      <title>Section 98</title>
+      <description>Doctrine and Covenants — Section 98. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 98</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 13:37:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-0980-section-98-male-voice-64k-eng.mp3" length="5582988" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-0980-section-98-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>11:16</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>100</itunes:episode>
+    </item>
+    <item>
+      <title>Section 99</title>
+      <description>Doctrine and Covenants — Section 99. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 99</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 13:38:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-0990-section-99-male-voice-64k-eng.mp3" length="1197133" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-0990-section-99-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>02:08</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>101</itunes:episode>
+    </item>
+    <item>
+      <title>Section 100</title>
+      <description>Doctrine and Covenants — Section 100. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 100</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 13:39:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-1000-section-100-male-voice-64k-eng.mp3" length="1942566" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-1000-section-100-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>03:41</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>102</itunes:episode>
+    </item>
+    <item>
+      <title>Section 101</title>
+      <description>Doctrine and Covenants — Section 101. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 101</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 13:40:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-1010-section-101-male-voice-64k-eng.mp3" length="9570530" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-1010-section-101-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>19:35</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>103</itunes:episode>
+    </item>
+    <item>
+      <title>Section 102</title>
+      <description>Doctrine and Covenants — Section 102. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 102</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 13:41:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-1020-section-102-male-voice-64k-eng.mp3" length="5117593" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-1020-section-102-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>10:18</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>104</itunes:episode>
+    </item>
+    <item>
+      <title>Section 103</title>
+      <description>Doctrine and Covenants — Section 103. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 103</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 13:42:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-1030-section-103-male-voice-64k-eng.mp3" length="4485429" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-1030-section-103-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>08:59</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>105</itunes:episode>
+    </item>
+    <item>
+      <title>Section 104</title>
+      <description>Doctrine and Covenants — Section 104. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 104</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 13:43:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-1040-section-104-male-voice-64k-eng.mp3" length="8963444" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-1040-section-104-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>18:19</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>106</itunes:episode>
+    </item>
+    <item>
+      <title>Section 105</title>
+      <description>Doctrine and Covenants — Section 105. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 105</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 13:44:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-1050-section-105-male-voice-64k-eng.mp3" length="4932646" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-1050-section-105-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>09:55</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>107</itunes:episode>
+    </item>
+    <item>
+      <title>Section 106</title>
+      <description>Doctrine and Covenants — Section 106. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 106</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 13:45:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-1060-section-106-male-voice-64k-eng.mp3" length="1289922" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-1060-section-106-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>02:20</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>108</itunes:episode>
+    </item>
+    <item>
+      <title>Section 107</title>
+      <description>Doctrine and Covenants — Section 107. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 107</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 13:46:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-1070-section-107-male-voice-64k-eng.mp3" length="10572796" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-1070-section-107-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>21:40</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>109</itunes:episode>
+    </item>
+    <item>
+      <title>Section 108</title>
+      <description>Doctrine and Covenants — Section 108. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 108</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 13:47:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-1080-section-108-male-voice-64k-eng.mp3" length="1074882" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-1080-section-108-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>01:53</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>110</itunes:episode>
+    </item>
+    <item>
+      <title>Section 109</title>
+      <description>Doctrine and Covenants — Section 109. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 109</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 13:48:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-1090-section-109-male-voice-64k-eng.mp3" length="8322086" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-1090-section-109-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>16:59</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>111</itunes:episode>
+    </item>
+    <item>
+      <title>Section 110</title>
+      <description>Doctrine and Covenants — Section 110. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 110</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 13:49:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-1100-section-110-male-voice-64k-eng.mp3" length="2211522" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-1100-section-110-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>04:15</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>112</itunes:episode>
+    </item>
+    <item>
+      <title>Section 111</title>
+      <description>Doctrine and Covenants — Section 111. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 111</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 13:50:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-1110-section-111-male-voice-64k-eng.mp3" length="1476959" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-1110-section-111-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>02:43</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>113</itunes:episode>
+    </item>
+    <item>
+      <title>Section 112</title>
+      <description>Doctrine and Covenants — Section 112. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 112</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 13:51:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-1120-section-112-male-voice-64k-eng.mp3" length="4039676" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-1120-section-112-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>08:03</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>114</itunes:episode>
+    </item>
+    <item>
+      <title>Section 113</title>
+      <description>Doctrine and Covenants — Section 113. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 113</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 13:52:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-1130-section-113-male-voice-64k-eng.mp3" length="1387516" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-1130-section-113-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>02:32</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>115</itunes:episode>
+    </item>
+    <item>
+      <title>Section 114</title>
+      <description>Doctrine and Covenants — Section 114. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 114</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 13:53:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-1140-section-114-male-voice-64k-eng.mp3" length="621397" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-1140-section-114-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>00:56</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>116</itunes:episode>
+    </item>
+    <item>
+      <title>Section 115</title>
+      <description>Doctrine and Covenants — Section 115. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 115</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 13:54:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-1150-section-115-male-voice-64k-eng.mp3" length="2098255" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-1150-section-115-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>04:01</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>117</itunes:episode>
+    </item>
+    <item>
+      <title>Section 116</title>
+      <description>Doctrine and Covenants — Section 116. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 116</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 13:55:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-1160-section-116-male-voice-64k-eng.mp3" length="433106" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-1160-section-116-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>00:33</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>118</itunes:episode>
+    </item>
+    <item>
+      <title>Section 117</title>
+      <description>Doctrine and Covenants — Section 117. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 117</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 13:56:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-1170-section-117-male-voice-64k-eng.mp3" length="2023859" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-1170-section-117-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>03:51</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>119</itunes:episode>
+    </item>
+    <item>
+      <title>Section 118</title>
+      <description>Doctrine and Covenants — Section 118. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 118</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 13:57:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-1180-section-118-male-voice-64k-eng.mp3" length="985439" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-1180-section-118-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>01:42</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>120</itunes:episode>
+    </item>
+    <item>
+      <title>Section 119</title>
+      <description>Doctrine and Covenants — Section 119. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 119</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 13:58:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-1190-section-119-male-voice-64k-eng.mp3" length="1605064" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-1190-section-119-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>02:59</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>121</itunes:episode>
+    </item>
+    <item>
+      <title>Section 120</title>
+      <description>Doctrine and Covenants — Section 120. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 120</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 13:59:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-1200-section-120-male-voice-64k-eng.mp3" length="500815" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-1200-section-120-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>00:41</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>122</itunes:episode>
+    </item>
+    <item>
+      <title>Section 121</title>
+      <description>Doctrine and Covenants — Section 121. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 121</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 14:00:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-1210-section-121-male-voice-64k-eng.mp3" length="4962112" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-1210-section-121-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>09:59</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>123</itunes:episode>
+    </item>
+    <item>
+      <title>Section 122</title>
+      <description>Doctrine and Covenants — Section 122. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 122</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 14:01:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-1220-section-122-male-voice-64k-eng.mp3" length="1808610" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-1220-section-122-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>03:25</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>124</itunes:episode>
+    </item>
+    <item>
+      <title>Section 123</title>
+      <description>Doctrine and Covenants — Section 123. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 123</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 14:02:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-1230-section-123-male-voice-64k-eng.mp3" length="2395215" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-1230-section-123-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>04:38</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>125</itunes:episode>
+    </item>
+    <item>
+      <title>Section 124</title>
+      <description>Doctrine and Covenants — Section 124. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 124</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 14:03:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-1240-section-124-male-voice-64k-eng.mp3" length="16686703" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-1240-section-124-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>34:24</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>126</itunes:episode>
+    </item>
+    <item>
+      <title>Section 125</title>
+      <description>Doctrine and Covenants — Section 125. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 125</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 14:04:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-1250-section-125-male-voice-64k-eng.mp3" length="788789" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-1250-section-125-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>01:17</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>127</itunes:episode>
+    </item>
+    <item>
+      <title>Section 126</title>
+      <description>Doctrine and Covenants — Section 126. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 126</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 14:05:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-1260-section-126-male-voice-64k-eng.mp3" length="638742" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-1260-section-126-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>00:58</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>128</itunes:episode>
+    </item>
+    <item>
+      <title>Section 127</title>
+      <description>Doctrine and Covenants — Section 127. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 127</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 14:06:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-1270-section-127-male-voice-64k-eng.mp3" length="2410889" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-1270-section-127-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>04:40</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>129</itunes:episode>
+    </item>
+    <item>
+      <title>Section 128</title>
+      <description>Doctrine and Covenants — Section 128. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 128</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 14:07:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-1280-section-128-male-voice-64k-eng.mp3" length="7740704" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-1280-section-128-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>15:46</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>130</itunes:episode>
+    </item>
+    <item>
+      <title>Section 129</title>
+      <description>Doctrine and Covenants — Section 129. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 129</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 14:08:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-1290-section-129-male-voice-64k-eng.mp3" length="997769" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-1290-section-129-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>01:43</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>131</itunes:episode>
+    </item>
+    <item>
+      <title>Section 130</title>
+      <description>Doctrine and Covenants — Section 130. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 130</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 14:09:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-1300-section-130-male-voice-64k-eng.mp3" length="2558220" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-1300-section-130-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>04:58</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>132</itunes:episode>
+    </item>
+    <item>
+      <title>Section 131</title>
+      <description>Doctrine and Covenants — Section 131. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 131</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 14:10:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-1310-section-131-male-voice-64k-eng.mp3" length="854409" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-1310-section-131-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>01:25</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>133</itunes:episode>
+    </item>
+    <item>
+      <title>Section 132</title>
+      <description>Doctrine and Covenants — Section 132. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 132</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 14:11:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-1320-section-132-male-voice-64k-eng.mp3" length="10400806" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-1320-section-132-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>21:19</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>134</itunes:episode>
+    </item>
+    <item>
+      <title>Section 133</title>
+      <description>Doctrine and Covenants — Section 133. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 133</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 14:12:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-1330-section-133-male-voice-64k-eng.mp3" length="6615349" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-1330-section-133-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>13:25</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>135</itunes:episode>
+    </item>
+    <item>
+      <title>Section 134</title>
+      <description>Doctrine and Covenants — Section 134. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 134</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 14:13:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-1340-section-134-male-voice-64k-eng.mp3" length="3334997" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-1340-section-134-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>06:35</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>136</itunes:episode>
+    </item>
+    <item>
+      <title>Section 135</title>
+      <description>Doctrine and Covenants — Section 135. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 135</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 14:14:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-1350-section-135-male-voice-64k-eng.mp3" length="3140019" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-1350-section-135-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>06:11</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>137</itunes:episode>
+    </item>
+    <item>
+      <title>Section 136</title>
+      <description>Doctrine and Covenants — Section 136. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 136</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 14:15:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-1360-section-136-male-voice-64k-eng.mp3" length="3710742" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-1360-section-136-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>07:22</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>138</itunes:episode>
+    </item>
+    <item>
+      <title>Section 137</title>
+      <description>Doctrine and Covenants — Section 137. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 137</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 14:16:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-1370-section-137-male-voice-64k-eng.mp3" length="1174357" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-1370-section-137-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>02:05</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>139</itunes:episode>
+    </item>
+    <item>
+      <title>Section 138</title>
+      <description>Doctrine and Covenants — Section 138. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Section 138</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 14:17:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-1380-section-138-male-voice-64k-eng.mp3" length="6392786" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-1380-section-138-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>12:58</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>140</itunes:episode>
+    </item>
+    <item>
+      <title>Official Declaration 1</title>
+      <description>Doctrine and Covenants — Official Declaration 1. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Official Declaration 1</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 14:18:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-1390-official-declaration-1-male-voice-64k-eng.mp3" length="5084425" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-1390-official-declaration-1-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>10:14</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>141</itunes:episode>
+    </item>
+    <item>
+      <title>Official Declaration 2</title>
+      <description>Doctrine and Covenants — Official Declaration 2. Read aloud from the official audio recording of The Church of Jesus Christ of Latter-day Saints.</description>
+      <itunes:summary>Doctrine and Covenants — Official Declaration 2</itunes:summary>
+      <itunes:subtitle>Doctrine and Covenants</itunes:subtitle>
+      <pubDate>Mon, 02 Nov 2015 14:19:00 +0000</pubDate>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-doctrine-and-covenants/2015-11-1400-official-declaration-2-male-voice-64k-eng.mp3" length="2764751" type="audio/mpeg" />
+      <guid isPermaLink="false">lds-scripture-audio-doctrine-and-covenants-2015-11-1400-official-declaration-2-male-voice-64k-eng.mp3</guid>
+      <itunes:duration>05:24</itunes:duration>
+      <itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>142</itunes:episode>
+    </item>
+  </channel>
+</rss>
