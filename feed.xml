@@ -4,7 +4,7 @@
      xmlns:content="http://purl.org/rss/1.0/modules/content/"
      xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>V'Ger Faith — Eric's Scripture Study Podcast</title>
+    <title>Scripture Study &amp; Come Follow Me</title>
     <link>https://erwilde.github.io/vger-faith-podcast</link>
     <atom:link href="https://erwilde.github.io/vger-faith-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
@@ -19,7 +19,7 @@
     <itunes:image href="https://erwilde.github.io/vger-faith-podcast/cover.jpg"/>
     <image>
       <url>https://erwilde.github.io/vger-faith-podcast/cover.jpg</url>
-      <title>V'Ger Faith — Eric's Scripture Study Podcast</title>
+      <title>Scripture Study &amp; Come Follow Me</title>
       <link>https://erwilde.github.io/vger-faith-podcast</link>
     </image>
     <itunes:category text="Religion &amp; Spirituality">

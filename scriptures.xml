@@ -4,7 +4,7 @@
      xmlns:content="http://purl.org/rss/1.0/modules/content/"
      xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>LDS Scriptures — Audio (Eric's Private Feed)</title>
+    <title>Scriptures</title>
     <link>https://erwilde.github.io/vger-faith-podcast</link>
     <atom:link href="https://erwilde.github.io/vger-faith-podcast/scriptures.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
@@ -19,7 +19,7 @@
     <itunes:image href="https://erwilde.github.io/vger-faith-podcast/scriptures-cover.jpg"/>
     <image>
       <url>https://erwilde.github.io/vger-faith-podcast/scriptures-cover.jpg</url>
-      <title>LDS Scriptures — Audio</title>
+      <title>Scriptures</title>
       <link>https://erwilde.github.io/vger-faith-podcast</link>
     </image>
     <itunes:category text="Religion &amp; Spirituality">
