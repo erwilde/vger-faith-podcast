@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>V'Ger Faith — Eric's Scripture Study Podcast</title>
+    <link>https://erwilde.github.io/vger-faith-podcast</link>
+    <atom:link href="https://erwilde.github.io/vger-faith-podcast/feed.xml" rel="self" type="application/rss+xml"/>
+    <language>en-us</language>
+    <copyright>© 2026 Eric Wilde — Personal Use</copyright>
+    <itunes:author>Eric Wilde</itunes:author>
+    <itunes:summary>Personal scripture-study podcast feed for Dr. Eric Wilde. Deep dives into Come Follow Me readings (Old Testament 2026), temple worship, sacred history, and the long chain of witnesses across ancient and modern revelation. Produced privately for personal use; not affiliated with any church or institution.</itunes:summary>
+    <description>Personal scripture-study podcast feed for Dr. Eric Wilde. Come Follow Me deep dives, temple worship, and the long chain of witnesses across ancient and modern revelation.</description>
+    <itunes:owner>
+      <itunes:name>Eric Wilde</itunes:name>
+      <itunes:email>erwilde@telus.net</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://erwilde.github.io/vger-faith-podcast/cover.jpg"/>
+    <image>
+      <url>https://erwilde.github.io/vger-faith-podcast/cover.jpg</url>
+      <title>V'Ger Faith — Eric's Scripture Study Podcast</title>
+      <link>https://erwilde.github.io/vger-faith-podcast</link>
+    </image>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Christianity"/>
+    </itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <lastBuildDate>Sat, 25 Apr 2026 03:23:10 +0000</lastBuildDate>
+    <item>
+      <title>Bonus — Ancient Temple Worship &amp; the Prayer Circle</title>
+      <description>A research-grounded exploration of ancient temple worship, the sacred prayer circle, and how the practice survived and was restored in the latter days. Includes ANE temple parallels, Qumran texts, and early Christian liturgical evidence.</description>
+      <itunes:summary>A research-grounded exploration of ancient temple worship, the sacred prayer circle, and how the practice survived and was restored in the latter days. Includes ANE temple parallels, Qumran texts, and early Christian liturgical evidence.</itunes:summary>
+      <itunes:subtitle>Special Topics</itunes:subtitle>
+      <pubDate>Thu, 02 Apr 2026 08:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/erwilde/vger-faith-podcast/releases/download/v1.0/temple-worship-prayer-circle.mp3" length="29183204" type="audio/mpeg"/>
+      <guid isPermaLink="false">erwilde/vger-faith-podcast-v1.0-temple-worship-prayer-circle.mp3</guid>
+      <itunes:duration>30:24</itunes:duration>
+      <itunes:author>Eric Wilde</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      
+    </item>
+    <item>
+      <title>CFM Exodus EP01 — Exodus 14: The Sea Parts</title>
+      <description>Deep dive into Israel's deliverance at the Red Sea. Egyptian historical context, the pillar of cloud and fire, the doctrine of standing still, and the typology of baptism in Christ.</description>
+      <itunes:summary>Deep dive into Israel's deliverance at the Red Sea. Egyptian historical context, the pillar of cloud and fire, the doctrine of standing still, and the typology of baptism in Christ.</itunes:summary>
+      <itunes:subtitle>Come Follow Me — Exodus</itunes:subtitle>
+      <pubDate>Sun, 05 Apr 2026 08:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/erwilde/vger-faith-podcast/releases/download/v1.0/cfm-ep01-exodus14-sea-parts.mp3" length="54931158" type="audio/mpeg"/>
+      <guid isPermaLink="false">erwilde/vger-faith-podcast-v1.0-cfm-ep01-exodus14-sea-parts.mp3</guid>
+      <itunes:duration>57:13</itunes:duration>
+      <itunes:author>Eric Wilde</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>1</itunes:episode>
+    </item>
+    <item>
+      <title>CFM Exodus EP02 — Exodus 15: The Song of Deliverance</title>
+      <description>The Song of Moses and Miriam — Israel's first hymn of deliverance. Hebrew poetry, ancient Near Eastern parallels, and the prophetic foreshadowing of the Lamb in Revelation 15.</description>
+      <itunes:summary>The Song of Moses and Miriam — Israel's first hymn of deliverance. Hebrew poetry, ancient Near Eastern parallels, and the prophetic foreshadowing of the Lamb in Revelation 15.</itunes:summary>
+      <itunes:subtitle>Come Follow Me — Exodus</itunes:subtitle>
+      <pubDate>Wed, 08 Apr 2026 08:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/erwilde/vger-faith-podcast/releases/download/v1.0/cfm-ep02-exodus15-song-deliverance.mp3" length="58018204" type="audio/mpeg"/>
+      <guid isPermaLink="false">erwilde/vger-faith-podcast-v1.0-cfm-ep02-exodus15-song-deliverance.mp3</guid>
+      <itunes:duration>01:00:26</itunes:duration>
+      <itunes:author>Eric Wilde</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>2</itunes:episode>
+    </item>
+    <item>
+      <title>CFM Exodus EP03 — Exodus 16: Bread from Heaven</title>
+      <description>Manna in the wilderness. The daily-bread theology of dependence, the Sabbath revealed before Sinai, and the bread-of-life christology that runs from Exodus to John 6.</description>
+      <itunes:summary>Manna in the wilderness. The daily-bread theology of dependence, the Sabbath revealed before Sinai, and the bread-of-life christology that runs from Exodus to John 6.</itunes:summary>
+      <itunes:subtitle>Come Follow Me — Exodus</itunes:subtitle>
+      <pubDate>Sat, 11 Apr 2026 08:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/erwilde/vger-faith-podcast/releases/download/v1.0/cfm-ep03-exodus16-bread-heaven.mp3" length="55255075" type="audio/mpeg"/>
+      <guid isPermaLink="false">erwilde/vger-faith-podcast-v1.0-cfm-ep03-exodus16-bread-heaven.mp3</guid>
+      <itunes:duration>57:33</itunes:duration>
+      <itunes:author>Eric Wilde</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>3</itunes:episode>
+    </item>
+    <item>
+      <title>CFM Exodus EP04 — Exodus 17–18: Water, War, and Wisdom</title>
+      <description>Water from the rock at Massah and Meribah, the battle with Amalek and Aaron and Hur holding up Moses' hands, and Jethro's counsel on shared leadership — the foundations of priesthood organization.</description>
+      <itunes:summary>Water from the rock at Massah and Meribah, the battle with Amalek and Aaron and Hur holding up Moses' hands, and Jethro's counsel on shared leadership — the foundations of priesthood organization.</itunes:summary>
+      <itunes:subtitle>Come Follow Me — Exodus</itunes:subtitle>
+      <pubDate>Wed, 15 Apr 2026 08:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/erwilde/vger-faith-podcast/releases/download/v1.0/cfm-ep04-exodus17-18-water-war-wisdom.mp3" length="58348394" type="audio/mpeg"/>
+      <guid isPermaLink="false">erwilde/vger-faith-podcast-v1.0-cfm-ep04-exodus17-18-water-war-wisdom.mp3</guid>
+      <itunes:duration>01:00:47</itunes:duration>
+      <itunes:author>Eric Wilde</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>4</itunes:episode>
+    </item>
+    <item>
+      <title>CFM Exodus EP05 — Exodus 19–20: Sinai and the Ten Commandments</title>
+      <description>Israel arrives at Sinai. The Lord's offer of a kingdom of priests, theophany on the mountain, and the Decalogue read in light of restoration scripture and ancient Near Eastern covenant forms.</description>
+      <itunes:summary>Israel arrives at Sinai. The Lord's offer of a kingdom of priests, theophany on the mountain, and the Decalogue read in light of restoration scripture and ancient Near Eastern covenant forms.</itunes:summary>
+      <itunes:subtitle>Come Follow Me — Exodus</itunes:subtitle>
+      <pubDate>Sun, 19 Apr 2026 08:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/erwilde/vger-faith-podcast/releases/download/v1.0/cfm-ep05-exodus19-20-sinai.mp3" length="18018720" type="audio/mpeg"/>
+      <guid isPermaLink="false">erwilde/vger-faith-podcast-v1.0-cfm-ep05-exodus19-20-sinai.mp3</guid>
+      <itunes:duration>50:03</itunes:duration>
+      <itunes:author>Eric Wilde</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>5</itunes:episode>
+    </item>
+    <item>
+      <title>CFM Exodus EP06 — Exodus 24: The Covenant Ratified</title>
+      <description>The covenant ratification ceremony — blood at the altar, the elders ascending, eating and drinking before God on the mountain. The Old Testament prefigure of sacrament and temple.</description>
+      <itunes:summary>The covenant ratification ceremony — blood at the altar, the elders ascending, eating and drinking before God on the mountain. The Old Testament prefigure of sacrament and temple.</itunes:summary>
+      <itunes:subtitle>Come Follow Me — Exodus</itunes:subtitle>
+      <pubDate>Tue, 21 Apr 2026 08:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/erwilde/vger-faith-podcast/releases/download/v1.0/cfm-ep06-exodus24-covenant.mp3" length="19105056" type="audio/mpeg"/>
+      <guid isPermaLink="false">erwilde/vger-faith-podcast-v1.0-cfm-ep06-exodus24-covenant.mp3</guid>
+      <itunes:duration>53:04</itunes:duration>
+      <itunes:author>Eric Wilde</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>6</itunes:episode>
+    </item>
+    <item>
+      <title>CFM Exodus EP07 — Exodus 31–32: The Golden Calf Apostasy</title>
+      <description>Israel's collapse into idolatry while Moses is on the mount. Aaron's failure of leadership, Moses' intercession, and the prophetic pattern of apostasy and restoration.</description>
+      <itunes:summary>Israel's collapse into idolatry while Moses is on the mount. Aaron's failure of leadership, Moses' intercession, and the prophetic pattern of apostasy and restoration.</itunes:summary>
+      <itunes:subtitle>Come Follow Me — Exodus</itunes:subtitle>
+      <pubDate>Wed, 22 Apr 2026 08:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/erwilde/vger-faith-podcast/releases/download/v1.0/cfm-ep07-exodus31-32-golden-calf.mp3" length="20402928" type="audio/mpeg"/>
+      <guid isPermaLink="false">erwilde/vger-faith-podcast-v1.0-cfm-ep07-exodus31-32-golden-calf.mp3</guid>
+      <itunes:duration>56:40</itunes:duration>
+      <itunes:author>Eric Wilde</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>7</itunes:episode>
+    </item>
+    <item>
+      <title>CFM Exodus EP08 — Exodus 33–34: Face to Face with the Glory of God</title>
+      <description>Moses speaks with the Lord face to face as a man speaks with his friend. The cleft of the rock, the proclamation of the divine name, and the renewed tablets — the climax of the Sinai narrative.</description>
+      <itunes:summary>Moses speaks with the Lord face to face as a man speaks with his friend. The cleft of the rock, the proclamation of the divine name, and the renewed tablets — the climax of the Sinai narrative.</itunes:summary>
+      <itunes:subtitle>Come Follow Me — Exodus</itunes:subtitle>
+      <pubDate>Thu, 23 Apr 2026 08:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/erwilde/vger-faith-podcast/releases/download/v1.0/cfm-ep08-exodus33-34-face-to-face.mp3" length="22118976" type="audio/mpeg"/>
+      <guid isPermaLink="false">erwilde/vger-faith-podcast-v1.0-cfm-ep08-exodus33-34-face-to-face.mp3</guid>
+      <itunes:duration>01:01:26</itunes:duration>
+      <itunes:author>Eric Wilde</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>8</itunes:episode>
+    </item>
+    <item>
+      <title>Sacred Markings EP01 — Holiness to the LORD: The Vestments of Aaron</title>
+      <description>The high priest's robe in Exodus 28 — ephod, breastplate, Urim and Thummim, the golden plate. What the embroidered marks meant and how they shaped every later sacred garment tradition.</description>
+      <itunes:summary>The high priest's robe in Exodus 28 — ephod, breastplate, Urim and Thummim, the golden plate. What the embroidered marks meant and how they shaped every later sacred garment tradition.</itunes:summary>
+      <itunes:subtitle>Sacred Markings on Ancient Religious Clothing</itunes:subtitle>
+      <pubDate>Fri, 24 Apr 2026 15:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/erwilde/vger-faith-podcast/releases/download/v1.0/sacred-markings-ep01-holiness-vestments-aaron.mp3" length="19254960" type="audio/mpeg"/>
+      <guid isPermaLink="false">erwilde/vger-faith-podcast-v1.0-sacred-markings-ep01-holiness-vestments-aaron.mp3</guid>
+      <itunes:duration>53:29</itunes:duration>
+      <itunes:author>Eric Wilde</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>1</itunes:episode>
+    </item>
+    <item>
+      <title>Sacred Markings EP02 — Nations Clothed in Thread: ANE, Qumran, and the Christian Seal</title>
+      <description>Comparative survey across ancient Near Eastern, Qumran, Jewish, and early Christian sources. Tassels, fringes, sacred dyes, and the Christian sphragis — the seal placed on the body at baptism.</description>
+      <itunes:summary>Comparative survey across ancient Near Eastern, Qumran, Jewish, and early Christian sources. Tassels, fringes, sacred dyes, and the Christian sphragis — the seal placed on the body at baptism.</itunes:summary>
+      <itunes:subtitle>Sacred Markings on Ancient Religious Clothing</itunes:subtitle>
+      <pubDate>Fri, 24 Apr 2026 16:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/erwilde/vger-faith-podcast/releases/download/v1.0/sacred-markings-ep02-nations-clothed-thread.mp3" length="20572560" type="audio/mpeg"/>
+      <guid isPermaLink="false">erwilde/vger-faith-podcast-v1.0-sacred-markings-ep02-nations-clothed-thread.mp3</guid>
+      <itunes:duration>57:09</itunes:duration>
+      <itunes:author>Eric Wilde</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>2</itunes:episode>
+    </item>
+    <item>
+      <title>Sacred Markings EP03 — The Robe of Glory Restored: Christ to the Temple Today</title>
+      <description>From the Hymn of the Pearl to the modern temple — how the robe-of-glory motif runs from early Christianity through the restoration. Concludes with Janet Ewell's 2026 Interpreter Foundation paper on gamma marks.</description>
+      <itunes:summary>From the Hymn of the Pearl to the modern temple — how the robe-of-glory motif runs from early Christianity through the restoration. Concludes with Janet Ewell's 2026 Interpreter Foundation paper on gamma marks.</itunes:summary>
+      <itunes:subtitle>Sacred Markings on Ancient Religious Clothing</itunes:subtitle>
+      <pubDate>Fri, 24 Apr 2026 17:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/erwilde/vger-faith-podcast/releases/download/v1.0/sacred-markings-ep03-robe-of-glory-restored.mp3" length="20951568" type="audio/mpeg"/>
+      <guid isPermaLink="false">erwilde/vger-faith-podcast-v1.0-sacred-markings-ep03-robe-of-glory-restored.mp3</guid>
+      <itunes:duration>58:12</itunes:duration>
+      <itunes:author>Eric Wilde</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>3</itunes:episode>
+    </item>
+    <item>
+      <title>Sacred Markings Complete — Full Deep Dive Plus Interpreter Foundation Bonus</title>
+      <description>All three Sacred Markings episodes concatenated into a single 3-hour deep dive, followed by a bonus segment integrating Janet Ewell's April 17, 2026 Interpreter Foundation paper, 'Gamma Marks: Recent Works Relevant to Their Study.'</description>
+      <itunes:summary>All three Sacred Markings episodes concatenated into a single 3-hour deep dive, followed by a bonus segment integrating Janet Ewell's April 17, 2026 Interpreter Foundation paper, 'Gamma Marks: Recent Works Relevant to Their Study.'</itunes:summary>
+      <itunes:subtitle>Sacred Markings on Ancient Religious Clothing</itunes:subtitle>
+      <pubDate>Fri, 24 Apr 2026 19:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/erwilde/vger-faith-podcast/releases/download/v1.0/sacred-markings-complete-with-bonus.mp3" length="65968796" type="audio/mpeg"/>
+      <guid isPermaLink="false">erwilde/vger-faith-podcast-v1.0-sacred-markings-complete-with-bonus.mp3</guid>
+      <itunes:duration>03:03:15</itunes:duration>
+      <itunes:author>Eric Wilde</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>4</itunes:episode>
+    </item>
+  </channel>
+</rss>
