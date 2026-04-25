@@ -180,7 +180,7 @@ rss = f"""<?xml version="1.0" encoding="UTF-8"?>
       <itunes:category text="Christianity"/>
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
-    <itunes:type>episodic</itunes:type>
+    <itunes:type>serial</itunes:type>
     <lastBuildDate>{now}</lastBuildDate>
 {items_combined}
   </channel>
