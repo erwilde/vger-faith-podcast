@@ -27,7 +27,7 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Sat, 25 Apr 2026 03:55:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 04:55:00 +0000</lastBuildDate>
     <item>
       <title>Bonus — Ancient Temple Worship &amp; the Prayer Circle</title>
       <description>A research-grounded exploration of ancient temple worship, the sacred prayer circle, and how the practice survived and was restored in the latter days. Includes ANE temple parallels, Qumran texts, and early Christian liturgical evidence.</description>
@@ -166,6 +166,20 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:season>1</itunes:season>
       <itunes:episode>9</itunes:episode>
+    </item>
+    <item>
+      <title>CFM Leviticus 19 — Ye Shall Be Holy (Supplemental)</title>
+      <description>A focused 40-minute supplemental episode on Leviticus 19 — the holiness chapter at the literary heart of the Torah. The Holiness Code framing, "Ye shall be holy: for I the Lord your God am holy," Christ's Second Great Commandment in Leviticus 19:18, the practical holiness of gleanings, honest wages, justice for the deaf and blind, love for the stranger, and what it all means for Latter-day Saint discipleship today.</description>
+      <itunes:summary>A focused 40-minute supplemental episode on Leviticus 19 — "Ye shall be holy: for I the Lord your God am holy." The Holiness Code, the Second Great Commandment, and the practical holiness of gleanings, honest wages, and love for the stranger. Rounds out this week's Come Follow Me reading.</itunes:summary>
+      <itunes:subtitle>Come Follow Me — Leviticus (Supplemental)</itunes:subtitle>
+      <pubDate>Tue, 28 Apr 2026 04:55:00 +0000</pubDate>
+      <enclosure url="https://github.com/erwilde/vger-faith-podcast/releases/download/v1.0/leviticus19-supplemental.mp3" length="14515436" type="audio/mpeg"/>
+      <guid isPermaLink="false">erwilde/vger-faith-podcast-v1.0-leviticus19-supplemental.mp3</guid>
+      <itunes:duration>40:19</itunes:duration>
+      <itunes:author>Eric Wilde</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>10</itunes:episode>
     </item>
     <item>
       <title>Sacred Markings EP01 — Holiness to the LORD: The Vestments of Aaron</title>
