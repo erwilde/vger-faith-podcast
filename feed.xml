@@ -27,7 +27,22 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Tue, 05 May 2026 04:10:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 07:55:03 +0000</lastBuildDate>
+    <item>
+      <title>CFM Doctrinal Deep Dive — The Holy Ghost: When the Gift Has Been on the Earth</title>
+      <description>A three-hour doctrinal deep dive on the Holy Ghost. When has the gift been on the earth across dispensations? Why was it withheld until Christ was glorified (John 7:39)? What is the difference between the gift, the influence, and the Light of Christ? Six sections covering scripture, the Ante-Nicene Fathers, modern conference, the Restoration, and the Two Comforters doctrine.</description>
+      <itunes:summary>A three-hour doctrinal deep dive on the Holy Ghost. When has the gift been on the earth across dispensations? Why was it withheld until Christ was glorified (John 7:39)? What is the difference between the gift, the influence, and the Light of Christ? Six sections covering scripture, the Ante-Nicene Fathers, modern conference, the Restoration, and the Two Comforters doctrine.</itunes:summary>
+      <itunes:subtitle>Doctrinal Deep Dives</itunes:subtitle>
+      <pubDate>Sat, 09 May 2026 08:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/erwilde/vger-faith-podcast/releases/download/v1.0/holy-ghost-deepdive-2026-05-09.mp3" length="255842865" type="audio/mpeg"/>
+      <guid isPermaLink="false">erwilde/vger-faith-podcast-v1.0-holy-ghost-deepdive-2026-05-09.mp3</guid>
+      <itunes:duration>04:26:30</itunes:duration>
+      <itunes:author>Eric Wilde</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>12</itunes:episode>
+    </item>
+
     <item>
       <title>Bonus — Ancient Temple Worship &amp; the Prayer Circle</title>
       <description>A research-grounded exploration of ancient temple worship, the sacred prayer circle, and how the practice survived and was restored in the latter days. Includes ANE temple parallels, Qumran texts, and early Christian liturgical evidence.</description>
