@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lesson Preparation</title>
+    <link>https://erwilde.github.io/vger-faith-podcast</link>
+    <atom:link href="https://erwilde.github.io/vger-faith-podcast/lesson-preparation.xml" rel="self" type="application/rss+xml"/>
+    <language>en-us</language>
+    <copyright>© 2026 Eric Wilde — Personal Use</copyright>
+    <itunes:author>Eric Wilde</itunes:author>
+    <itunes:summary>A scripture-study companion for those preparing to teach in Elders Quorum and Relief Society. Each episode walks through one general conference talk — its message, its key quotes, and ideas to teach it with confidence and the Spirit. Produced privately for personal study; not affiliated with any church or institution. Talks © Intellectual Reserve, Inc., quoted for personal study.</itunes:summary>
+    <description>A study companion for those who teach in Elders Quorum and Relief Society. Each episode walks through one general conference talk: its message, key quotes, and ideas to teach it well.</description>
+    <itunes:owner>
+      <itunes:name>Eric Wilde</itunes:name>
+      <itunes:email>erwilde@telus.net</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://erwilde.github.io/vger-faith-podcast/lesson-preparation-cover.jpg"/>
+    <image>
+      <url>https://erwilde.github.io/vger-faith-podcast/lesson-preparation-cover.jpg</url>
+      <title>Lesson Preparation</title>
+      <link>https://erwilde.github.io/vger-faith-podcast</link>
+    </image>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Christianity"/>
+    </itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <lastBuildDate>Wed, 20 May 2026 16:33:40 +0000</lastBuildDate>
+    <item>
+      <title>Come Home — Elder Clark G. Gilbert | EQ/RS Lesson Prep</title>
+      <description>A lesson-preparation walkthrough of Elder Clark G. Gilbert's April 2026 general conference talk "Come Home" (his first address as an Apostle). The episode frames the lesson around two of the Savior's names — Redeemer and Repairer — then walks through the doctrine of the open door (choices have consequences, but the Savior still allows us to change) and the four people Elder Gilbert ministers to: those who feel they don't belong (Sister Anglesey), those who feel they don't measure up (Brother Vargas — "you don't have to be perfect... do your best, and Christ will make up the difference"), those who doubt (the Valdez family — anchor in what you do believe and recognize the Holy Ghost), and those bound by tradition (John Raass). It closes with the two audiences — those helping someone home and those finding their own way home — the BYU "we saved a seat just for you" flashlight image, and a suggested 40-minute lesson outline with discussion questions and scripture cross-references. Verbatim key quotes from Elder Gilbert, President Nelson, and President Oaks throughout.</description>
+      <itunes:summary>A lesson-prep walkthrough of "Come Home" by Elder Clark G. Gilbert (April 2026). Built around the names Redeemer and Repairer; the open-door doctrine; the four people Christ calls home — those who feel they don't belong, don't measure up, doubt, or are bound by tradition; the "we saved a seat just for you" image; plus verbatim key quotes, a 40-minute lesson outline, discussion questions, and scripture cross-references.</itunes:summary>
+      <itunes:subtitle>Lesson Preparation — for the lesson on Elder Clark G. Gilbert's "Come Home"</itunes:subtitle>
+      <pubDate>Wed, 20 May 2026 16:33:40 +0000</pubDate>
+      <enclosure url="https://pub-ffe5644909274c90aac65790f6b9f5ef.r2.dev/lesson-prep-come-home-2026-05-24.mp3" length="5837708" type="audio/mpeg"/>
+      <guid isPermaLink="false">vger-faith-podcast-lesson-prep-come-home-2026-05-24</guid>
+      <itunes:duration>00:16:12</itunes:duration>
+      <itunes:author>Eric Wilde</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>1</itunes:episode>
+    </item>
+  </channel>
+</rss>
